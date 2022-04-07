@@ -1,0 +1,6 @@
+[
+    { "_id": "1", "name": "Angular", "category": "front-end" },
+    { "_id": "2", "name": "Spring", "category": "backend" },
+    { "_id": "3", "name": "Java", "category": "backend" },
+    { "_id": "4", "name": "Python", "category": "backend" }
+]
